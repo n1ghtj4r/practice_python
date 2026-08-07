@@ -47,5 +47,5 @@ print(greeting) # hello
 
 print("")
 
-greeting = 'hi'
-greeting[0] = 'H' # TypeError: 'str' object does not support item assignment
+#greeting = 'hi'
+#greeting[0] = 'H' # TypeError: 'str' object does not support item assignment
