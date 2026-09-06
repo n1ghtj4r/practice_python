@@ -47,8 +47,9 @@ print('After modifying the radius:', my_circle.radius) # After modifying the rad
 
 print("\n")#///////////
 
-my_circle.radius # This will call the getter
+print(my_circle.radius) # This will call the getter
 my_circle.radius = 4 # This will call the setter
+print(my_circle.radius)
 
 print("\n")#///////////
 
